@@ -53,15 +53,14 @@ const WalletLogin = () => {
     <div className="col-12 col-md-8 col-lg-5 mx-auto login-card__container">
       <div className="card shadow-sm rounded p-4 border-0">
         <div className="card-body text-center">
-          <h2 className="mb-3">Wallet</h2>
+          <h2 className="mb-3">Web wallet ou Maiar</h2>
 
           <p className="mb-3">
-            Login with keystore file.
-            <br /> Login with:
+            Connectez vous avec le wallet web ou Maiar.
           </p>
 
           <button onClick={() => handleOnClick()} className="btn btn-primary mt-3">
-            www.wallet.elrond.com
+            Connexion
           </button>
         </div>
       </div>

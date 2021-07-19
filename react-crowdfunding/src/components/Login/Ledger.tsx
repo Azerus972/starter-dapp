@@ -40,11 +40,11 @@ const LedgerLogin = () => {
           <h2 className="mb-3">Ledger</h2>
 
           <p className="mb-3">
-            Secure Ledger login.
+            Connectez-vous avec une ledger
           </p>
 
           <button onClick={() => handleOnClick()} className="btn btn-primary mt-3">
-            Connect Ledger
+            Connexion Ledger
           </button>
         </div>
       </div>
